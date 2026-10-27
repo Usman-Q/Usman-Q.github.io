@@ -1,0 +1,50 @@
+# Muhammad Usman Qureshi
+
+> Software engineer with 5+ years building mobile games and the systems behind them. On Hexa Sort (Lion Studios, 10M+ Google Play downloads) I have shipped gameplay, monetization and LiveOps features in Unity, then designed and built the game’s player-segmentation backend and admin console end to end in TypeScript, PostgreSQL and React. I work spec-first and test-first with AI coding agents, and I like owning systems across client and server.
+
+Software Engineer · Backend, Full-stack & Games. Open to relocation (visa sponsorship required) and remote roles.
+
+## Links
+
+- Site: https://usman-q.github.io
+- LinkedIn: https://www.linkedin.com/in/muhammad-usman-a4756222b/
+- GitHub: https://github.com/Usman-Q
+- Email: qm.maniqureshi@gmail.com
+
+## Skills
+
+- Languages: TypeScript, JavaScript, C#, PHP, SQL, HLSL, Python
+- Backend: Node.js, Express, PostgreSQL, MySQL, Redis, BullMQ, REST APIs, OAuth 2.0/JWT, Laravel, Snowflake, Docker, Google Cloud
+- Frontend: React, TanStack Start, Tailwind CSS, shadcn/ui, Zod, Vitest, React Testing Library
+- Games: Unity (URP), Cocos Creator, Firebase Remote Config, IAP, AppLovin MAX, AdMob, Adjust, Meta SDK, Addressables, Unity Profiler
+- Tech art: HLSL/ShaderLab shaders, VFX and particles, lighting, post-processing, Blender
+- AI & workflow: Claude Code, MCP servers, multi-agent development, TDD, spec-driven design, GitHub Actions, Git
+
+## Work
+
+### Platform & AI
+
+- [Player-segmentation service and admin console](https://usman-q.github.io/work/player-segmentation-service/): The rule engine that decides which economy and ad configuration each Hexa Sort player receives, and the secure console teams use to manage its rules.
+- [AI-native engineering: MCP server and spec-first agent workflow](https://usman-q.github.io/work/ai-native-engineering/): A remote MCP server that lets teammates query, explain and simulate live segmentation rules from Claude, and how I build spec-first with AI coding agents.
+- [Unity analytics SDK](https://usman-q.github.io/work/unity-analytics-sdk/): The studio’s Unity analytics SDK, a UPM package with server-controlled event filtering, IAP receipt validation, and ad-revenue, session and FPS tracking.
+
+### Game engineering
+
+- [Hexa Sort: gameplay, LiveOps and monetization](https://usman-q.github.io/work/hexa-sort-gameplay-liveops/): Board mechanics, timed levels and boosters, plus the LiveOps and monetization systems I built into the Hexa Sort Unity client.
+- [Playable ads in Cocos Creator: Mole and Shoot-to-Sort](https://usman-q.github.io/work/playable-ads/): Gameplay for two shipped Hexa Sort playable ads, each built around a new mechanic with its own input, animation and level setup.
+- [Editor tools for the game team](https://usman-q.github.io/work/tools-for-the-team/): A code generator for new tile mechanics, level-editor features and a batch screenshot uploader that I built to speed up the Hexa Sort team's work.
+- [Tile Garden and legacy titles](https://usman-q.github.io/work/tile-garden-and-legacy-titles/): Support, event UI and consent work on Tile Garden, plus two older coin-pusher games I revived with engine and Android API upgrades.
+
+### Tech art
+
+- [Portal Dwellers: lighting, environments and cutscenes](https://usman-q.github.io/work/portal-dwellers-lighting/): Real-time HDRP environments I built for Portal Dwellers, with a lighting mood per area, fog and volumetrics, and in-engine cutscenes rendered at 4K.
+- [Custom URP shaders for Hexa Sort](https://usman-q.github.io/work/hexa-sort-urp-shaders/): Mobile cel-shading and a shadow-receiving transparent ground that I wrote in HLSL for Hexa Sort's board, replacing the third-party shaders.
+- [Tank cinematics and promo art](https://usman-q.github.io/work/tank-cinematics/): In-engine cinematics and colour-graded promo art I produced in Unity for a tank-battle game, from a bullet-camera sequence to parade and orbit shots.
+- [Makhi Museebat (game jam)](https://usman-q.github.io/work/makhi-museebat/): A mobile game that won Most Engaging Game at Mindstorm Winter Game Jam 2022 and was taken towards commercial release; I worked on it in Unity and C#.
+
+## CV
+
+- CV page: https://usman-q.github.io/cv/
+- CV (general, PDF): https://usman-q.github.io/cv/Muhammad-Usman-Qureshi-CV.pdf
+- CV (backend, PDF): https://usman-q.github.io/cv/Muhammad-Usman-Qureshi-CV-Backend.pdf
+- CV (game, PDF): https://usman-q.github.io/cv/Muhammad-Usman-Qureshi-CV-Game.pdf
